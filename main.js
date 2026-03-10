@@ -1,3 +1,4 @@
+/*
  JavaScript Conditionals
  function identify_sign () {
      num1 = document.getElementById('input1').value;
@@ -9,8 +10,9 @@
     } else {
         document.getElementById('output').innerHTML = 'It is zero';
    }
-
-   function odd_or_even() {
+ */
+   
+    function odd_or_even() {
     num1 = document.getElementById('input1').value;
 
     if (num1 % 2 == 0) {
